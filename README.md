@@ -38,7 +38,7 @@ Spaces permitted
 
 No digits or special characters
 
-🔹** Mobile Number Validation**
+🔹**Mobile Number Validation**
 
 Must start with digits 6 to 9
 
